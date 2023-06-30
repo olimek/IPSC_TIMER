@@ -1,0 +1,9 @@
+../Core/Src/callbacks/train_callbacks.c:25:6:TRAIN_MODE_refresh	8	static
+../Core/Src/callbacks/train_callbacks.c:31:6:TRAIN2_MODE_refresh	8	static
+../Core/Src/callbacks/train_callbacks.c:38:6:TRAIN_MODE_next	8	static
+../Core/Src/callbacks/train_callbacks.c:43:6:TRAIN_MODE_start	8	static
+../Core/Src/callbacks/train_callbacks.c:46:6:TRAIN_MODE_stop	8	static
+../Core/Src/callbacks/train_callbacks.c:49:6:TRAIN_MODE_prev	8	static
+../Core/Src/callbacks/train_callbacks.c:53:6:TRAIN_MODE_back	8	static
+../Core/Src/callbacks/train_callbacks.c:58:6:TRAIN_MODE_callback	8	static
+../Core/Src/callbacks/train_callbacks.c:70:6:TRAIN2_MODE_callback	8	static

@@ -1,0 +1,7 @@
+../Core/Src/callbacks/par_callbacks.c:25:6:PAR_MODE_refresh	8	static
+../Core/Src/callbacks/par_callbacks.c:33:6:PAR_MODE_next	8	static
+../Core/Src/callbacks/par_callbacks.c:38:6:PAR_MODE_start	8	static
+../Core/Src/callbacks/par_callbacks.c:41:6:PAR_MODE_stop	8	static
+../Core/Src/callbacks/par_callbacks.c:44:6:PAR_MODE_prev	8	static
+../Core/Src/callbacks/par_callbacks.c:48:6:PAR_MODE_back	8	static
+../Core/Src/callbacks/par_callbacks.c:53:6:PAR_MODE_callback	8	static

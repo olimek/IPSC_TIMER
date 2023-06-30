@@ -1,0 +1,14 @@
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h:868:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/menu.c:53:9:menu_get_index	24	static
+../Core/Src/menu.c:71:6:menu_next	8	static
+../Core/Src/menu.c:90:6:menu_prev	8	static
+../Core/Src/menu.c:105:6:menu_enter	8	static
+../Core/Src/menu.c:120:6:menu_back	8	static
+../Core/Src/menu.c:132:6:system_esc	8	static
+../Core/Src/menu.c:137:6:menu_refresh	32	static
+../Core/Src/menu.c:184:6:key_next_press	16	static
+../Core/Src/menu.c:206:6:key_prev_press	16	static
+../Core/Src/menu.c:230:6:key_ok_press	16	static
+../Core/Src/menu.c:258:6:key_esc_press	16	static
+../Core/Src/menu.c:285:6:key_stop_press	16	static
+../Core/Src/menu.c:312:6:key_start_press	16	static
